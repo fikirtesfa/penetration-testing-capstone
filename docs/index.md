@@ -1,11 +1,11 @@
 
-# Penetration Testing Capstone  
+# Penetration Testing Capstone Project  
 By Fikirte Tefera
 
-Welcome to my cybersecurity project portfolio.
+This repository contains my penetration-testing capstone project, including a full PDF report and documentation of the lab environment, reconnaissance, exploitation, and findings.
 
-##  Full Report
-You can view the full penetration testing report in the main repository.
+##  Report
+- **Penetration testing capston.pdf** Full penetration testing report
 
 ##  Tools Used
 - Kali Linux  
@@ -14,9 +14,20 @@ You can view the full penetration testing report in the main repository.
 - Dirb  
 - WPScan  
 - WordPress exploitation  
+- ARP scanning  
+- ICMP testing  
 
-##  Summary
-This project demonstrates reconnaissance, scanning, exploitation, and reporting in a controlled penetration-testing lab environment.
+##  Project Highlights
+- Built an isolated penetration-testing lab using VirtualBox  
+- Configured NAT networking (10.0.2.0/24)  
+- Performed host discovery and service enumeration  
+- Identified outdated WordPress installation  
+- Successfully brute-forced WordPress admin credentials  
+- Documented findings with screenshots  
+
+##  Certifications
+- CompTIA Security+  
+- Splunk Core User  
 
 ##  Contact
-LinkedIn:  linkedin.com/in/fikirtetefera
+ linkedin.com/in/fikirtetefera
