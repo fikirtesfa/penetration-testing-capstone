@@ -4,7 +4,7 @@ By Fikirte Tefera
 This repository contains my penetration-testing capstone project, including a full PDF report and documentation of the lab environment, reconnaissance, exploitation, and findings.
 
 ## 📄 Report
-- **Penetration testing capston.pdf** — Full penetration testing report
+- **Penetration testing capston.pdf** Full penetration testing report
 
 ## 🛠️ Tools Used
 - Kali Linux  
