@@ -3,7 +3,7 @@ By Fikirte Tefera
 
 This repository contains my penetration-testing capstone project, including a full PDF report and documentation of the lab environment, reconnaissance, exploitation, and findings.
 
-## 📄 Report
+##  Report
 - **Penetration testing capston.pdf** Full penetration testing report
 
 ## 🛠️ Tools Used
@@ -16,7 +16,7 @@ This repository contains my penetration-testing capstone project, including a fu
 - ARP scanning  
 - ICMP testing  
 
-## 🔍 Project Highlights
+##  Project Highlights
 - Built an isolated penetration-testing lab using VirtualBox  
 - Configured NAT networking (10.0.2.0/24)  
 - Performed host discovery and service enumeration  
@@ -24,9 +24,9 @@ This repository contains my penetration-testing capstone project, including a fu
 - Successfully brute-forced WordPress admin credentials  
 - Documented findings with screenshots  
 
-## 🏅 Certifications
+##  Certifications
 - CompTIA Security+  
 - Splunk Core User  
 
-## 📬 Contact
+##  Contact
 Feel free to connect with me on linkedin.com/in/fikirtetefera
