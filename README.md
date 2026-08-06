@@ -6,7 +6,7 @@ This repository contains my penetration-testing capstone project, including a fu
 ##  Report
 - **Penetration testing capston.pdf** Full penetration testing report
 
-## 🛠️ Tools Used
+##  Tools Used
 - Kali Linux  
 - VirtualBox  
 - Nmap  
@@ -29,4 +29,4 @@ This repository contains my penetration-testing capstone project, including a fu
 - Splunk Core User  
 
 ##  Contact
-Feel free to connect with me on linkedin.com/in/fikirtetefera
+ linkedin.com/in/fikirtetefera
