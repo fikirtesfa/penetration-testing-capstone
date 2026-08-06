@@ -1,5 +1,4 @@
 
-# Penetration Testing Capstone Project  
 By Fikirte Tefera
 
 This repository contains my penetration-testing capstone project, including a full PDF report and documentation of the lab environment, reconnaissance, exploitation, and findings.
