@@ -29,4 +29,4 @@ This repository contains my penetration-testing capstone project, including a fu
 - Splunk Core User  
 
 ##  Contact
- linkedin.com/in/fikirtetefera
+ LinkedIn: https://www.linkedin.com/in/fikirte-tefera
